@@ -32,7 +32,7 @@ fitur_multiplebot        = false -- Aktifasi utama, fitur multi bot
 --[ISI BAGIAN NON-MULTIBOT KETIKA TIDAK MENGAKTIFKAN FITUR MULTIBOT]--
 --[[Settingan WebHook]]--
 Thumbnail_Url   = "https://i.pinimg.com/originals/90/7e/1a/907e1a5e337bc4b2f47ab63894f94a3d.gif"
-Webhook_Link    = "https://discord.com/api/webhooks/1054577148456874004/5jTFMXy4NpkbyjgyYVoLvPZrupzlz56nz3FUO6cRjyHmX-tecWUMPBRu54lWgNPgbkuC"
+Webhook_Link    = "https://discord.com/api/webhooks/1062984903140053002/iSaXlfmXWBOcssKwDfoLa_69rpCQcbMXBo2jwrv3z8Cpc98dh_bqIbSJrYN7ndY6RHj4"
 
 --[[SETTINGAN BOT BAIT DAN ROD]]--
 Id_Bait         = 2914 -- Id bait
