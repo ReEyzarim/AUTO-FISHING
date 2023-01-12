@@ -1049,11 +1049,10 @@ sleep(1000)
 autoaddbot()
 sleep(2000)
 check_status_autobot()
-if getBot().status == "online" then
-    join()
-    sleep(2000)
-    stopFishing()
-    sleep(1000)
-    say("Sc By ReGeneral")
-    webhook_mulai()
-end
+join()
+sleep(2000)
+stopFishing()
+sleep(1000)
+say("Sc By ReGeneral")
+webhook_mulai()
+
