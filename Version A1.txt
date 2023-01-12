@@ -1,6 +1,9 @@
 ----[[DEVELOPER SETTING]]----
 Owner = "HeavenlyMerchant"
 --[[==================]]--
+
+
+-----[[BATAS ENKRIPSI-----
 emotebait = "EROR 404"
 bait_name = "EROR 404"
 emoterod = "EROR 404"
